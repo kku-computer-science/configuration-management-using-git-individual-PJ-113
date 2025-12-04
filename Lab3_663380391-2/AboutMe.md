@@ -1,1 +1,3 @@
 Author: พงศ์วรัญจ์ จันทะฟอง
+Section: Section 3
+I am responsible for: โค้ดส่วนที่จะรับผิดชอบเขียน Quick sort
